@@ -1,6 +1,7 @@
-import gql from 'graphql-tag';
+import { gql } from '@apollo/client'
+// if this doesn't work try importing from 'graphql-tag' https://www.npmjs.com/package/graphql-tag
 
-export const QUERY_ME = gql`
+export const GET_ME = gql`
   {
     me {
       _id
