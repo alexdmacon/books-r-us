@@ -1,12 +1,13 @@
-import { gql } from '@apollo/client'
-// if this doesn't work try importing from 'graphql-tag' https://www.npmjs.com/package/graphql-tag
+import gql from 'graphql-tag';
 
+// queries for logged in users
 export const GET_ME = gql`
   {
     me {
       _id
       username
       email
+      bookCount
       savedBooks {
         bookId
         authors
