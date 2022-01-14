@@ -66,10 +66,12 @@ Have a great day.
 
 The following links and documentation are just a sampling of the online resources that proved helpful as I was working on this. I also consulted with classmates in my coding bootcamp and with my tutor. 
 
-- https://www.digitalocean.com/community/tutorials/js-intro-progressive-web-apps
-- https://developer.mozilla.org/en-US/docs/Web/Manifest/background_color
-- https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerGlobalScope/skipWaiting
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
-- https://stackoverflow.com/questions/36955441/indexeddb-creating-a-database-and-adding-content-failed-to-execute-transaction
-- https://www.mongodb.com/developer/how-to/seed-database-with-fake-data/
-- https://developer.mozilla.org/en-US/docs/Web/Manifest#example_manifest
+- https://www.mongodb.com/
+- https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas
+- https://javascriptsu.wordpress.com/2021/08/02/apollo-error-must-await-server-start/
+- https://www.npmjs.com/package/apollo-server-express
+- https://www.apollographql.com/docs/react/
+- https://stackoverflow.com/questions/52352612/import-error-cannot-find-module-graphql-from-apollo-link-state-lib-bundle-um
+- https://reactjs.org/docs/hooks-rules.html
+- https://reactjs.org/docs/hooks-effect.html
+- https://reactjs.org/docs/hooks-reference.html
